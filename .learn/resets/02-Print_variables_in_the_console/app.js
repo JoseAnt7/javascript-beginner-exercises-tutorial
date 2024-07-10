@@ -1,5 +1,4 @@
 let mySuperVariable = 'hello';
-let color = 'red';
-console.log(color);
+console.log(mySuperVariable);
 
 // your code below
